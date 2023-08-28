@@ -54,13 +54,13 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Cohost',
-			icon: 'github',
+			icon: 'text-quote',
 			link: 'https://cohost.org/',
 		},
 		{
 			id: '2',
 			name: 'Neocities',
-			icon: 'trello',
+			icon: 'layout',
 			link: 'https://neocities.org',
 		},
 		{
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
