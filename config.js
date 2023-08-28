@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Cohost',
-			icon: 'text-quote',
+			icon: 'bug',
 			link: 'https://cohost.org/',
 		},
 		{
