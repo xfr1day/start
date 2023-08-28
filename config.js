@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'alpharatio',
-					link: 'https://www.linkedin.com',
+					link: 'https://www.alpharatio.cc',
 				},
 				{
 					name: 'gazellegames',
