@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Protonmail',
-			icon: 'mail',
-			link: 'https://protonmail.com',
+			name: 'Beef',
+			icon: 'server',
+			link: 'https://dione.whatbox.ca/webui',
 		},
 		{
 			id: '5',
