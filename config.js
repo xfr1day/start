@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'download-cloud',
 			id: '2',
 			links: [
 				{
