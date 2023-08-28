@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Ram',
+	name: 'RSA',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
