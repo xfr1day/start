@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Protonmail',
-			icon: 'mail',
-			link: 'https://protonmail.com',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Protonmail',
+			icon: 'mail',
+			link: 'https://protonmail.com',
 		},
 		{
 			id: '5',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
+					name: 'alpharatio',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'gazellegames',
+					link: 'https://www.gazellegames.net',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'privateHD',
+					link: 'https://www.privatehd.to',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'torrentleech',
+					link: 'https://www.torrentleech.org',
 				},
 			],
 		},
