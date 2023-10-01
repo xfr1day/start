@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Beef',
-			icon: 'server',
-			link: 'https://dione.whatbox.ca/webui',
+			name: 'Protonmail',
+			icon: 'mail',
+			link: 'https://mail.proton.me',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'bot',
-			link: 'https://reddit.com',
+			name: 'Beef',
+			icon: 'server',
+			link: 'https://dione.whatbox.ca/webui',
 		},
 		{
 			id: '6',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'one',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'two',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'tumblr',
+					link: 'https://www.tumblr.com/',
 				},
 				{
-					name: 'three',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'instagram',
+					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'four',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'tiktok',
+					link: 'https://www.tiktok.com/',
 				},
 			],
 		},
