@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'RSA',
+	name: 'cee',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
