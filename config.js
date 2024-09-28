@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Cohost',
+			name: 'Posting.onl',
 			icon: 'text-quote',
-			link: 'https://cohost.org/',
+			link: 'https://posting.onl',
 		},
 		{
 			id: '2',
